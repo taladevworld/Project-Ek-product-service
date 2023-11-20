@@ -12,7 +12,7 @@
 	<artifactId>productservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>productservice</name>
-	<description>Order Service for Project EK</description>
+	<description>Product Service for Project EK</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
